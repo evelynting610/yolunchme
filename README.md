@@ -1,0 +1,1 @@
+This cell phone app facilitates easy reconnection with forgotten acquaintances. Further description at http://yhack2014.challengepost.com/submissions/29472-yolunch-me.  I worked on front-end development to create this app with three other programmers at Yale Hack 2014.  Used HTML and CSS for front-end, and Flask, Python, Mongo DB, the Facebook API, and the Yo API for backend. 
